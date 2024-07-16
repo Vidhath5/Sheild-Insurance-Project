@@ -21,3 +21,5 @@ This repository contains the Shield Insurance Data Analytics project, which focu
 - **Excel**: Used for initial data manipulation.
 - **DAX Studio**: Utilized to optimize performance by 5%.
 - **Bookmarks**: Enhanced presentation and navigation within Power BI.
+
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiODQxYTZhNDYtYTNhMy00ZWM3LTkxMmYtNmVlNWFmOGFkZDdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
